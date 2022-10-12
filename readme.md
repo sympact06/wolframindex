@@ -1,4 +1,4 @@
 # Gemaakt door
 - Olivier Flentge
-- Tim davids
+- Tim Davids
 - Collin Hullemans
